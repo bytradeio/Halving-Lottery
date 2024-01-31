@@ -1,11 +1,11 @@
 # Halving-Lottery
 
-Contract Details
-Name: Halving Pass
-Symbol: HP
-Total Supply Limit: 200,000 tokens
-Blockchain: PolyGon
-Standard: ERC721 (with URI Storage Extension)
+Contract Details <br>
+Name: Halving Pass <br>
+Symbol: HP <br>
+Total Supply Limit: 200,000 tokens <br>
+Blockchain: PolyGon <br>
+Standard: ERC721 (with URI Storage Extension)<br>
 
 
 # Key Features
